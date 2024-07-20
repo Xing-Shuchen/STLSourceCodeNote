@@ -5,7 +5,7 @@
 #include <iostream>
 using namespace std;
 
-// 迭代器是㆒种行为类似指针的对象，对operator*和operator->进行重载
+// 迭代器是一种行为类似指针的对象，对operator*和operator->进行重载
 
 int main() {
     const int arraySize = 7;
