@@ -1,4 +1,4 @@
-STLSourceCodeNote
+STL Source Code Note
 > SGI STL source code analysis and note from 《STL源码剖析》 by 侯捷
 > （包含电子书、源码注释及测试代码）
 
@@ -19,7 +19,7 @@ STLSourceCodeNote
 # 1.9 可能令你困惑的C++ 语法
  ## 1.9.2 临时对象的产生与运用
  ## 1.9.3 静态常量整数成员在class内部直接初始化
- ## 1.9.4 increment／decrement／dereference 操作符
+ ## 1.9.4 increment/decrement/dereference 操作符
  ## 1.9.5 前闭后开区间表示法[ )
  ## 1.9.6 function call操作符(operator())
  ## 2.1.1 设计一个简单的空间配置器，JJ::allocator
