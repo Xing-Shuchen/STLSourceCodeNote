@@ -9,8 +9,8 @@ using namespace std;
 // 迭代器是一种行为类似指针的对象，对 operator* 和 operator-> 进行重载.
 
 int main() {
-	const int arraySize = 7;
-	int ia[arraySize] = {0, 1, 2, 3, 4, 5, 6};
+	const int arraySize = 8;
+	int ia[arraySize] = {0, 1, 2, 3, 4, 5, 6, 7};
 
 	vector<int> ivect(ia, ia + arraySize);
 	list<int> ilist(ia, ia + arraySize);
