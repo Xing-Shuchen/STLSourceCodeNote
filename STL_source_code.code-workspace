@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "LeetCode",
+			"path": "../LeetCode"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.m": "matlab",
+			"algorithm": "cpp",
+			"utility": "cpp"
+		}
+	}
+}
